@@ -1,0 +1,32 @@
+{
+  "rarity_legendary": {
+    "subtitle": "subtitles.server_shop_mod.rarity_legendary",
+    "sounds": [
+      "server_shop_mod_1789689358:legendary"
+    ]
+  },
+  "rarity_epic": {
+    "subtitle": "subtitles.server_shop_mod.rarity_epic",
+    "sounds": [
+      "server_shop_mod_1789689358:epic"
+    ]
+  },
+  "rarity_rare": {
+    "subtitle": "subtitles.server_shop_mod.rarity_rare",
+    "sounds": [
+      "server_shop_mod_1789689358:rare"
+    ]
+  },
+  "rarity_common": {
+    "subtitle": "subtitles.server_shop_mod.rarity_common",
+    "sounds": [
+      "server_shop_mod_1789689358:common"
+    ]
+  },
+  "ui_click": {
+    "subtitle": "subtitles.server_shop_mod.ui_click",
+    "sounds": [
+      "server_shop_mod_1789689358:fy"
+    ]
+  }
+}
